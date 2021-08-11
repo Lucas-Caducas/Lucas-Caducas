@@ -1,9 +1,4 @@
 ### Olá! Eu sou o Lucas Oliveira da Silva 👋
-
-- 🔭 Hoje trabalho com front-end e QA
-- 🌱 Estudando JavaScript e Java
-- 📫 Contate-me no email: cadducaz@gmail.com
-- 😄 Pronouns: ele/dele
 <div>
   <a href="https://github.com/Lucas-Caducas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Caducas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -26,6 +21,11 @@
   <a href = "mailto:cadducaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-oliveira-da-silva-03938918a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.meta.com.br/lucas.osilva/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+
+  
+- 🔭 Hoje trabalho com front-end e QA
+- 🌱 Estudando JavaScript e Java
+- 😄 Pronouns: ele/dele
   
   ![Snake animation](https://github.com/Lucas-Caducas/Lucas-Caducas/blob/output/github-contribution-grid-snake.svg)
   
